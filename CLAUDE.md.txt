@@ -1,0 +1,25 @@
+# Claude Project Rules
+
+## Stack
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+## Coding Style
+
+- Use ES6+
+- Write clean and readable code
+- Prefer reusable functions
+- Comment only when necessary
+
+## Git
+
+Use Conventional Commits.
+
+## AI Guidelines
+
+- Explain generated code.
+- Prefer simple solutions.
+- Avoid unnecessary dependencies.
