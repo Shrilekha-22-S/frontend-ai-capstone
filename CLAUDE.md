@@ -23,3 +23,18 @@ Use Conventional Commits.
 - Explain generated code.
 - Prefer simple solutions.
 - Avoid unnecessary dependencies.
+
+
+
+**## Project Rules Learned**
+
+1. Always use semantic HTML and accessible labels.
+
+2. Validate all user input before processing.
+
+3. Review and test AI-generated code before committing.
+
+4. Keep JavaScript modular and readable.
+
+5. Use Conventional Commits for all Git commits.
+
